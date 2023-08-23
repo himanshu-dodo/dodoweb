@@ -1,0 +1,100 @@
+Dodo Skills India Private Limited (hereinafter, referred to as “we” or “us” or “our”) operates in India and offers a platform for financial learning, gaming and engagement through the web-portal www.stockydodo.com and a mobile application named “StockyDodo” (hereinafter, collectively referred to as the “Portal”). We attempt to present financial concepts in a simple and enjoyable manner to facilitate maximum learning and retention thereby promoting financial literacy amongst millions of smartphone users in India.
+
+Any person utilizing the Portal (hereinafter, referred to as “User” or “you” or “your”) or any of its features including, but not limited to participation in the various learning modules, courses, quizzes, contests, games (hereinafter, referred to as “Services”) being conducted on the Portal shall be bound by this Privacy Policy.
+
+ We respect the privacy of our Users and are committed to protect it in all respects. With a view to offer an enriching and holistic internet experience to its Users, we and/ or the Portal offer a vast repository of Services. Kindly take time to read the ‘About Us’ section to know more about us and the Portal. Most of the Services are offered for free but you may need registration to access our Portal. The information about the User is collected by the Portal as:
+1. Information supplied by Users, and
+2. Information automatically tracked during User’s navigation on the Portal
+
+Before you submit any information to the Portal, please read this Privacy Policy for an explanation of how we will treat your personal information. By using any part of the Portal, you consent to the collection, use, disclosure and transfer of your personal information for the purposes outlined in this Privacy Policy and to the collection, processing and maintenance of this information. If you do not agree to this Privacy Policy, please do not use the Portal. Your use of any part of the Portal indicates your acceptance of this Privacy Policy and of the collection, use and disclosure of your personal information in accordance with this Privacy Policy. While you have the option not to provide us with certain information, withdraw your consent to collect certain information or request deletion of information collected, kindly note that in such an event you may not be able to take full advantage of the entire scope of features and Services offered to you and we reserve the right not to provide you with our Services.
+
+Information Collected, Purpose and Usage
+To avail certain Services on the Portal, Users may be required to provide certain information for the registration process including, but not limited to:
+1. Mobile Number
+2. Name
+3. Gender
+4. Email Address
+5. OTP (One Time Password)
+6. Profile Name (which shall be unique)
+
+In the course of providing you with access to the Services, and in order to provide you access to the features offered through the Portal and to verify your identity, secure your account details, you may give the Portal the permission to access your mobile phone’s contact list, microphone, camera, phone, files, media, SMS, and capture and record your device information, operating system information, network information, and location information. You may also be required to furnish additional information, including, but not limited to your date of birth, bank account details and Permanent Account Number (“PAN”).
+
+When you participate in certain Services provided by the Portal that allow you to engage/ discuss/ chat with other Users of the Portal, please note that any and all information that you disclose becomes public information and we may store and access it.
+
+In certain instances, the Portal may also collect Sensitive Personal Information (hereinafter, referred to as “SPI”) from you. SPI means such personal information which consists of information relating to your password, physical, physiological and mental health condition; medical records and history; biometric information, sexual orientation and financial information, such as information regarding the payment instrument/ modes used by you to make such payments, which may include credit/ debit card number (but stored in encrypted form) with expiration date, banking details, wallet details etc. Provided however that information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as SPI. Certain kinds of financial information (that would constitute SPI) may be sought from you at the time of making a payment/ at the time of withdrawal of winnings. This financial information will be shared with third party providers in order to facilitate the payment/ withdrawal services.
+
+Any SPI collected by the Portal shall not be disclosed to any third party without your express consent, save as otherwise set out in this Privacy Policy or as provided in a separate written agreement between us and you or as required by law. It is clarified that this condition shall not apply to information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force, including SPI, in relation to you on the Portal.
+
+In the course of providing the Services, Users may invite other existing Users or new users (hereinafter, referred to as “Invited Users”) to participate in any of the Services by sending an invite link that is automatically generated by the Portal. The participation of the Invited User in any of the Services shall be subject to the terms of this Privacy Policy and the Terms and Conditions of Use of the Portal. The User hereby represents that the Invited Users have consented and agreed to such disclosure to and use of their Mobile Number, Name, Gender, Email Address and/ or any other information and/ or document, as may be required, by the Portal.
+
+All required information is specific and based on the kind of Services the User wishes to participate in or access, and will be utilized for the purpose of providing Services, including, but not limited to the services requested by the User. The information as supplied by the Users enables us to improve the Services and provide you the most user-friendly Services experience.
+
+We may also share such information with affiliates and third parties in limited circumstances, including, but not limited for the purpose of providing Services requested by the User, complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and Services.
+
+Disclosure/ Sharing
+We may also share information as provided by you and data concerning usage of the Services and participation in the Services with third party service providers engaged by us, for the purpose of data analytics or other similar purposes, for the purpose of storage, improving the Services and helping us serve you better.
+
+By using the Portal, you hereby expressly agree and grant consent to the collection, use and storage of your information by us and/ or the Portal. We reserve the right to share, disclose and transfer information collected hereunder with its own affiliates.
+
+Where we propose to use your SPI for any other uses as already stated, we will ensure that we notify you first. You may also be given the opportunity to withhold or withdraw your consent for the use other than as already stated. It is reiterated that any SPI collected by the Portal shall not be disclosed to any third party without your express consent, save as otherwise set out in this Privacy Policy or as provided in a separate written agreement between us and you or as required by law. It is clarified that this condition shall not apply to information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force, including SPI, in relation to you on the Portal.
+
+In the event we sell or transfer all or a portion of our business assets, consumer information may be one of the business assets that are shared, disclosed or transferred as part of the transaction. You hereby expressly grant consent and permission to us for disclosure and transfer of information to such third parties. We may share information as provided by you and data concerning usage of the Services and participation in the Services with its commercial partners for the purpose of facilitating user engagement, for marketing and promotional purposes and other related purposes. Further, we reserve the right to disclose any information, including SPI, as obligated by law, in response to duly authorized legal process, governmental requests and as necessary to protect the rights and interests of StockyDodo.
+
+Use of Cookies
+To improve the effectiveness and usability of the Portal for our Users, we use “cookies”, or such similar electronic tools to collect information to assign each visitor a unique random number as a User Identification (User ID) to understand the User’s individual interests using the identified device including, but not limited to mobile phone and computer. Unless the User voluntarily identifies himself/ herself (e.g., through registration), we have no way of knowing who the User is, even if we assign a cookie to the User’s device including, but not limited to mobile phone and computer. The only personal information a cookie can contain is information supplied by the User. A cookie cannot read data off the User’s device’s hard drive. Our/ Portal’s advertisers may also assign their own cookies to the User’s device’s browser (if the User clicks on their ad banners), a process that we and/ or the Portal do not control.
+
+The Portal’s web servers automatically collect limited information about User’s mobile phone’s/ computer’s connection to the Internet, including User’s IP address, when the User visits the Portal. The User’s IP address does not identify the User personally. We use this information to deliver the Portal’s web pages to Users upon request, to tailor the Portal to the interests of its Users, to measure traffic within the Portal and let advertisers know the geographic locations where the Portal’s visitors come from.
+
+Links
+The Portal also includes links to other websites. Such websites are governed by their respective privacy policies, which are beyond our control. Once the User leaves the Portal’s servers (the User can tell where he/ she is by checking the URL in the location bar on the User’s browser), use of any information provided by the User is governed by the privacy policy of the operator of the website which the User is visiting. That website’s policy may differ from that of our Portal. If the User cannot find the privacy policy of any of these websites via a link from the website’s homepage, the User may contact the website directly for more information. We and the Portal are not responsible for the privacy practices or the content of such websites.
+
+Security Procedures
+All information gathered on the Portal is securely stored within the Portal-controlled database. The database is stored on servers secured behind a firewall; access to such servers being password protected and strictly limited based on need-to-know basis. However, we understand that as effective as our security measures are, no security system is impenetrable.
+
+Thus, neither can we guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Further, any information you include in a posting, or otherwise, to the engagement/ discussion/ chat areas will be available to anyone with Internet access. By using the Portal, you understand and agree that your information may be used in or transferred to countries other than India.
+
+Advertising
+When we present information to our online advertisers, to help them understand our audience and confirm the value of advertising on the Portal, it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with the Portal, we contact you from time to time about updating your content to provide features and/ or Services which we believe may benefit you.
+
+Several deceptive emails, websites, blogs etc. claiming to be from or associated with us and/ or the Portal may be or are circulating on the Internet. These emails, websites, blogs etc. often include our logo, photos, links, content or other information. Some emails, websites, blogs etc. call the user requesting the user to provide login name, password etc. or inform the user that the user has won a prize/ gift or provide a method to commit illegal/ unauthorized act or deed or request detailed personal information or a payment of some kind. The sources and contents of these emails, websites, blogs etc. and accompanying materials are in no way associated with us and/ or the Portal. For your own protection, we strongly recommend not to respond to such emails or using these websites, blogs etc. We may use the information provided by you to the Portal, including, but not limited to your email address or mobile number, to contact you about the Services availed by you or to inform you of our updated features and/ or Services, if any.
+
+Retention of Data:
+Your personal information may be retained and may continue to be used until:
+1. The relevant purposes for the use of your information described in this Privacy Policy are no longer applicable; and
+2. We are no longer required by applicable law, regulations, and contractual obligations or legitimate business purposes to retain your personal information and the retention of your personal information is not required for the establishment, exercise or defense of any legal claim.
+
+User Data Deletion
+Users are entitled to request us to delete their User accounts and their personal information by sending an email with their written request including Mobile Number, Name, Gender, Email Address, PAN, and one identification document (like Aadhar etc.) to hello@dodoskills.com.
+
+We will do our best to respond promptly and in any event within one month of the following:
+1. Our receipt of your written request; or
+2. Our receipt of any further information we may ask you to provide to enable us to comply with your request, whichever is later.
+
+When you request deletion of your data, we follow a deletion process that ensures that your data is safely and completely removed from our servers or retained only in anonymized form.
+
+We try to ensure that we and/ or the Portal and/ or our Services protect information from accidental or malicious deletion. Because of this, there may be delays between when you request deletion and when copies are deleted from our active and backup systems.
+
+Updating Information
+You shall promptly notify us if there are any changes, updates, or modifications to your information. Further, you may also review, update or modify your information and user preferences, other than your mobile number, by logging into your Profile page on the Portal. Alternatively, you may send an email with your written request at hello@dodoskills.com. We will do our best to respond promptly.
+
+Limitation of Liability
+WE DO NOT WARRANT THAT THIS PORTAL, IT’S SERVERS, OR EMAIL SENT BY US OR ON OUR BEHALF ARE VIRUS FREE. WE SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS PORTAL, INCLUDING, BUT NOT LIMITED TO COMPENSATORY, DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL AND CONSEQUENTIAL DAMAGES, LOSS OF DATA, GOODWILL, BUSINESS OPPORTUNITY, INCOME OR PROFIT, LOSS OF OR DAMAGE TO PROPERTY AND CLAIMS OF THIRD PARTIES. IN NO EVENT SHALL WE BE LIABLE FOR ANY DAMAGES WHATSOEVER IN AN AMOUNT IN EXCESS OF AN AMOUNT OF INR 50.
+
+Applicable Law and Jurisdiction
+By visiting this Portal, you agree that the laws of the Republic of India without regard to its conflict of laws principles, govern this Privacy Policy and any dispute arising in respect hereof shall be subject to and governed by the dispute resolution process set out in the Terms and Conditions of Use of the Portal.
+
+Changes to Privacy Policy
+We believe that the internet is an ever-evolving medium. We may periodically review from time to time and change our Privacy Policy to incorporate such future changes as may be considered appropriate, without any notice to you. Our use of any information we gather will always be consistent with the privacy policy under which the information was collected, regardless of what the new privacy policy may be. Any changes to our Privacy Policy will be posted on this page, so that you are always aware of what information our Portal collects, how we use it, how we store it and under what circumstances we disclose it.
+
+Contact Us
+If any User has any questions or clarifications with respect to this Privacy Policy or has any complaints, comments, concerns, or feedback, he/ she may contact our Grievance Officer through the details mentioned below:
+
+Mr. Pradeep Kumar
+Phone: (+91)9910321202
+Email: hello@stockydodo.com
+
+User may also send his/ her concerns by normal/ physical mail addressed to:
+
+Dodo Skills India Private Limited
+9th Floor, DTJ 902-906, DLF Tower B,
+Jasola, New Delhi – 110025

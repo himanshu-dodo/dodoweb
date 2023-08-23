@@ -47,7 +47,7 @@
         firebase.analytics();
       </script>
   <script>
-    var serviceWorkerVersion = '3627266940';
+    var serviceWorkerVersion = '1909190691';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -96,14 +96,14 @@
 
         // If service worker doesn't succeed in a reasonable amount of time,
         // fallback to plaint <script> tag.
-        setTimeout(() => {
-          if (!scriptLoaded) {
-            console.warn(
-              'Failed to load app from service worker. Falling back to plain <script> tag.',
-            );
-            loadMainDartJs();
-          }
-        }, 4000);
+        // setTimeout(() => {
+        //   if (!scriptLoaded) {
+        //     console.warn(
+        //       'Failed to load app from service worker. Falling back to plain <script> tag.',
+        //     );
+        //     loadMainDartJs();
+        //   }
+        // }, 4000);
       });
     } else {
       // Service workers not supported. Just drop the <script> tag.
